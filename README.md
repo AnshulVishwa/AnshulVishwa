@@ -1,5 +1,6 @@
 # 👋 Hey, I’m Anshul Vishwakarma  
-🚀 Full-Stack Developer | 💡 Tech Enthusiast | 🧠 Lifelong Learner  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Tech+Explorer;Always+Learning+New+Things)](https://git.io/typing-svg)
+  
 
 - 🌱 Currently building **STUDEX** – A Student Management System  
 - 💻 Tech Stack: JavaScript | React | Node.js | Express | MongoDB  
