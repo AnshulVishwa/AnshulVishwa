@@ -1,12 +1,80 @@
-# 👋 Hey, I’m Anshul Vishwakarma  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Tech+Explorer;Always+Learning+New+Things)](https://git.io/typing-svg)
-  
+<!-- Profile Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=36BCF7&center=true&vCenter=true&width=800&lines=Hey+There!+I'm+Anshul+Vishwakarma;Full+Stack+Developer;MERN+Stack+Enthusiast;Tech+Explorer;Always+Learning+New+Things" />
+</p>
 
-- 🌱 Currently building **STUDEX** – A Student Management System  
-- 💻 Tech Stack: JavaScript | React | Node.js | Express | MongoDB  
-- 🎯 Goal: To merge **tech + medicine** for real-world impact  
-- 🎨 Fun fact: I can debug faster with coffee ☕
+---
 
+<!-- Introduction -->
+## 👋 About Me
+Hi! I'm **Anshul Vishwakarma**, a passionate **Full Stack Developer** who loves building real-world solutions with clean, functional designs.  
+Currently, I’m working on **EVENTURA**, creating an awesome E-Certificate feature after completing the UI/UX.  
+
+- 🚀 Built **STUDEX**, a student management system  
+- 🎯 Now developing **EVENTURA** – an event management platform  
+- 💡 Believer in learning by building  
+- ☕ Code + Coffee = Perfect combo  
+
+---
+
+<!-- Badges -->
+## 🛠 Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+<!-- Projects -->
+## 🚀 Featured Projects
+| Project | Status | Description | Tech Stack |
+|---------|--------|-------------|------------|
+| [STUDEX](https://github.com/Anshulvishwa/STUDEX) | ✅ Completed | Student management system for handling student data, courses, and fees. | MERN Stack |
+| [EVENTURA](https://github.com/Anshulvishwa/EVENTURA) | 🛠 In Progress | Event management platform. UI/UX done, currently building E-Certificate feature. | MERN Stack |
+| [ChocoPebble](https://github.com/Anshulvishwa/ChocoPebble) | ✅ Completed | Chocolate brand website with appealing UI and animations. | HTML, CSS, JS |
+| [Career SETU](https://github.com/Anshulvishwa/Career-SETU) | ✅ Completed | Platform to connect students with career opportunities and resources. | MERN Stack |
+
+---
+
+<!-- Stats -->
 ## 📊 GitHub Stats
-![Anshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshulVishwa&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulVishwa&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anshulvishwa&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshulvishwa&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+</p>
+
+---
+
+<!-- Streak -->
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Anshulvishwa&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+---
+
+<!-- Trophies -->
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anshulvishwa&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+---
+
+<!-- Visitors -->
+![Visitor Count](https://komarev.com/ghpvc/?username=Anshulvishwa&color=blue)
+
+---
+
+<!-- Contact -->
+## 📫 Let's Connect
+- 📧 Email: [anshulvishwa2205@gmail.com](mailto:anshulvishwa2205@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/anshulvishwa2205](https://www.linkedin.com/in/anshulvishwa2205)  
+- 🐙 GitHub: [github.com/Anshulvishwa](https://github.com/Anshulvishwa)
+
+---
