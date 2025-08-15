@@ -26,18 +26,22 @@ Currently, I’m working on **EVENTURA**, creating an awesome E-Certificate feat
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-FF4088?style=for-the-badge&logo=figma&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 <!-- Projects -->
 ## 🚀 Featured Projects
-| Project | Status | Description | Tech Stack |
-|---------|--------|-------------|------------|
-| [STUDEX](https://github.com/Anshulvishwa/STUDEX) | ✅ Completed | Student management system for handling student data, courses, and fees. | MERN Stack |
-| [EVENTURA](https://github.com/Anshulvishwa/EVENTURA) | 🛠 In Progress | Event management platform. UI/UX done, currently building E-Certificate feature. | MERN Stack |
-| [ChocoPebble](https://github.com/Anshulvishwa/ChocoPebble) | ✅ Completed | Chocolate brand website with appealing UI and animations. | HTML, CSS, JS |
-| [Career SETU](https://github.com/Anshulvishwa/Career-SETU) | ✅ Completed | Platform to connect students with career opportunities and resources. | MERN Stack |
+| Project | Status | Description | Tech Stack | Collaboration |
+|---------|--------|-------------|------------|---------------|
+| [STUDEX](https://github.com/Anshulvishwa/STUDEX) | ✅ Completed | Student management system for handling student data, courses, and fees. | MERN Stack | [Vidhi Agrawal](https://github.com/VidhiAgrawa) |
+| [EVENTURA](https://github.com/Anshulvishwa/EVENTURA) | 🛠 In Progress | Event management platform. UI/UX done, currently building E-Certificate feature. | MERN Stack | [Vidhi Agrawal](https://github.com/VidhiAgrawa) |
+| [ChocoPebble](https://github.com/Anshulvishwa/ChocoPebble) | ✅ Completed | Chocolate brand website with appealing UI and animations. | HTML, CSS, JS | Self Project |
+| [Career SETU](https://github.com/Anshulvishwa/Career-SETU) | ✅ Completed | Platform to connect students with career opportunities and resources. | MERN Stack | [Vidhi Agrawal](https://github.com/VidhiAgrawa) |
 
 ---
 
