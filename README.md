@@ -8,5 +8,5 @@
 - 🎨 Fun fact: I can debug faster with coffee ☕
 
 ## 📊 GitHub Stats
-![Anshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshulVishwakarma&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulVishwakarma&layout=compact&theme=tokyonight)
+![Anshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshulVishwa&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulVishwa&layout=compact&theme=tokyonight)
