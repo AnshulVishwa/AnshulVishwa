@@ -11,7 +11,7 @@ Hi! I'm **Anshul Vishwakarma**, a passionate **Full Stack Developer** who loves 
 Currently, I’m working on **EVENTURA**, creating an awesome E-Certificate feature after completing the UI/UX.  
 
 - 🚀 Built **STUDEX**, a student management system  
-- 🎯 Now developing **EVENTURA** – an event management platform  
+- 🎯 Built **EnzoSkills**, an Ai driven skills learning app 
 - 💡 Believer in learning by building  
 - ☕ Code + Coffee = Perfect combo  
 
@@ -66,27 +66,10 @@ Currently, I’m working on **EVENTURA**, creating an awesome E-Certificate feat
 
 ---
 
-<!-- Stats -->
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anshulvishwa&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshulvishwa&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
-</p>
-
----
-
 <!-- Streak -->
 ## 🔥 Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Anshulvishwa&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
-
-<!-- Trophies -->
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anshulvishwa&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -98,7 +81,7 @@ Currently, I’m working on **EVENTURA**, creating an awesome E-Certificate feat
 
 <!-- Contact -->
 ## 📫 Let's Connect
-- 📧 Email: [anshulvishwa2205@gmail.com](mailto:anshulvishwa2205@gmail.com)  
+- 📧 Email: [anshul.vishwakarmma.tech@gmail.com](mailto:anshul.vishwakarmma.tech@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/anshulvishwa2205](https://www.linkedin.com/in/anshulvishwa2205)  
 - 🐙 GitHub: [github.com/Anshulvishwa](https://github.com/Anshulvishwa)
 
